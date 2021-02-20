@@ -71,7 +71,7 @@ namespace DataAccess.Concrete.InMemory
 
         List<Car> ICarDal.GetAllByColor(int colorId)
         {
-            return _cars.Where(c => c.ColorId == colorId).ToList();
+            return _cars.Where(c => c.ColorId == colorId).ToList();    
         }
 
         
