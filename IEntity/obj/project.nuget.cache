@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "QbLUTaF4O2OFeFJ8222tohzcq3vgUXOSwOJdj5z7Wk1tZLu8hok8/PrCFE6UqbWFaYaXbupfLHyjcOO7eyTiQQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Handan\\source\\repos\\AracKiralamaProjesi(KodlamaIO)\\IEntity\\Entities.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Handan\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "C:\\Users\\Handan\\.nuget\\packages\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}

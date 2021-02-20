@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "UGfI5BDTYZB3eBdvYlT+TiouG+Uh6EjqxX5H3jZ3SdUOUKUObw6eegypaZAcilyl9p7jhQxswmwa5FfCZ/wz0w==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Handan\\source\\repos\\AracKiralamaProjesi(KodlamaIO)\\DataAccess\\DataAccess.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Handan\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "C:\\Users\\Handan\\.nuget\\packages\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}

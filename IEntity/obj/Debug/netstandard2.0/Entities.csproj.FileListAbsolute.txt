@@ -1,0 +1,9 @@
+C:\Users\Handan\source\repos\AracKiralamaProjesi(KodlamaIO)\IEntity\bin\Debug\netstandard2.0\Entities.deps.json
+C:\Users\Handan\source\repos\AracKiralamaProjesi(KodlamaIO)\IEntity\bin\Debug\netstandard2.0\Entities.dll
+C:\Users\Handan\source\repos\AracKiralamaProjesi(KodlamaIO)\IEntity\bin\Debug\netstandard2.0\Entities.pdb
+C:\Users\Handan\source\repos\AracKiralamaProjesi(KodlamaIO)\IEntity\obj\Debug\netstandard2.0\Entities.csprojAssemblyReference.cache
+C:\Users\Handan\source\repos\AracKiralamaProjesi(KodlamaIO)\IEntity\obj\Debug\netstandard2.0\Entities.AssemblyInfoInputs.cache
+C:\Users\Handan\source\repos\AracKiralamaProjesi(KodlamaIO)\IEntity\obj\Debug\netstandard2.0\Entities.AssemblyInfo.cs
+C:\Users\Handan\source\repos\AracKiralamaProjesi(KodlamaIO)\IEntity\obj\Debug\netstandard2.0\Entities.csproj.CoreCompileInputs.cache
+C:\Users\Handan\source\repos\AracKiralamaProjesi(KodlamaIO)\IEntity\obj\Debug\netstandard2.0\Entities.dll
+C:\Users\Handan\source\repos\AracKiralamaProjesi(KodlamaIO)\IEntity\obj\Debug\netstandard2.0\Entities.pdb
